@@ -16,6 +16,10 @@ printf ("there is error \a");
 wher we can save my throughts */
     
     // printf("%23.4f" , b);
+    // const mean that the value of the variable cannot be changed after it is initialized.
+    // #define in simple word mean that we can define a constant value which cannot be changed in the program.
+    // differnce between const and #define is that const is a keyword in C which is used to declare a constant variable and #define is a preprocessor directive which is used to define a constant value.
+    
 
     
 
