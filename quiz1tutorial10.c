@@ -12,3 +12,4 @@ int main()
     printf("you won a medal \n");
     else
     printf("you are not eligible for any prize\n");}
+  
