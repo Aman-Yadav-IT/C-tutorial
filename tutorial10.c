@@ -14,8 +14,10 @@ if (age>=18)
 else if (age>=8 )
 {
     printf("you are between 8 to 18 years you can vote for kids \n");
+
 }
 else {printf("you are not eligible for voting\n");}
+
 
 
 
