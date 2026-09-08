@@ -9,7 +9,9 @@ while(i<30)
     printf("%d\n",i);
     i++;
 
+
 }
+
 
 
 
