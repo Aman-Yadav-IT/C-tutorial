@@ -16,6 +16,10 @@ return_type funtion_name(data_type parameter 1,data_type parameter2,...)
 2.user defined funtion-funtion created by c programmer 
 to reduce complexity of a program 
 */
+int a,b,c;
+a = 9;
+b = 87;
+c = sum(a, b);
 
 
 }
