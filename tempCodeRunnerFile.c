@@ -6,3 +6,5 @@
     // printf("you won a medal \n");
     // else
     // printf("you are not eligible for any prize\n");}
+   //  this is a noramal file to paritce code by own and to improve mistake 
+   
